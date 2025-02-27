@@ -19,5 +19,6 @@
     ?>
     <h1>Sitemizin Başlığı</h1>
     <p>Bu bizim sitemizin ilk paragrafı</p>
+    <h2>İkinci seviya başlık</h2>
 </body>
 </html>
