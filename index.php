@@ -16,7 +16,8 @@
         echo '<h1 id="baslik">sadf</h1>';
         echo "<h1 id=\"başlık\">$degisken</h1>";
         echo '<h1 id="baslik">'.$degisken.'</h1>';
-        
     ?>
+    <h1>Sitemizin Başlığı</h1>
+    <p>Bu bizim sitemizin ilk paragrafı</p>
 </body>
 </html>
